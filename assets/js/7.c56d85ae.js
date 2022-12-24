@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[7],{353:function(n,t,e){"use strict";e.r(t);var s={data:function(){return{name:"Vue"}}},a=e(43),i=Object(a.a)(s,(function(){var n=this.$createElement;return(this._self._c||n)("h3",[this._v("My "+this._s(this.name)+" component")])}),[],!1,null,"ddf96670",null);t.default=i.exports}}]);
