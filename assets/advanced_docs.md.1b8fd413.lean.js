@@ -1,1 +1,0 @@
-import{_ as s,c as n,o as a,a as o}from"./app.ff5939fe.js";const u=JSON.parse('{"title":"Documentation","description":"","frontmatter":{},"headers":[],"relativePath":"advanced/docs.md","lastUpdated":1675436748000}'),l={name:"advanced/docs.md"},p=o("",9),t=[p];function e(D,F,c,r,y,C){return a(),n("div",null,t)}const q=s(l,[["render",e]]);export{u as __pageData,q as default};

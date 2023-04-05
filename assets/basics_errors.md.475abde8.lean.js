@@ -1,1 +1,0 @@
-import{_ as s,c as n,o as a,a as l}from"./app.ff5939fe.js";const i=JSON.parse('{"title":"Error Handling","description":"","frontmatter":{},"headers":[],"relativePath":"basics/errors.md","lastUpdated":1675436748000}'),o={name:"basics/errors.md"},p=l("",8),e=[p];function t(r,c,y,D,F,A){return a(),n("div",null,e)}const d=s(o,[["render",t]]);export{i as __pageData,d as default};
